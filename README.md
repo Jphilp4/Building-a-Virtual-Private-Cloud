@@ -18,19 +18,13 @@ I've designed and deployed an Amazon Virtual Private Cloud (VPC) to create a **s
 
 ### Next Phase:  
 - 🔒 **Security Enhancements**: Implement additional **NACLs, security groups, and IAM policies** to tighten access controls.  
-- 📊 **Monitoring & Optimisation**: Implement AWS **CloudWatch** and **VPC Flow Logs** to analyze network performance and security.  
+- 📊 **Monitoring & Optimisation**: Implement AWS **CloudWatch** and **VPC Flow Logs** to analyse network performance and security.  
 - 🏗 **VPC Peering & Private Networking**: Extend the network by linking multiple VPCs securely.  
 
 ---
 
 ## Why Amazon VPC?  
 Amazon VPC enables **flexible, secure** networking within AWS, allowing fine-grained control over resource accessibility. With **subnet isolation, custom routing, and scalable internet access**, it’s a crucial component for building robust cloud infrastructure.  
-
----
-
-## Acknowledgments  
-Thank you to **NextWork** for their invaluable resources and community support. Join me in learning more about AWS networking! 🚀  
-**[NextWork Community](link.nextwork.org/linkedin)**  
 
 ---
 
@@ -45,5 +39,5 @@ For a more detailed overview of this project, check out my documentation here: [
 
 ---
 
-## Hashtags  
+##  
 #AWS #CloudComputing #Networking #AmazonVPC #NextWork
